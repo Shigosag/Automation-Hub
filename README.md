@@ -82,7 +82,7 @@ Automation-Hub/
 
 ```bash
 git clone https://github.com/Shigosag/Automation-Hub.git
-cd automation-hub
+cd Automation-Hub
 ```
 
 ## Backend Setup
