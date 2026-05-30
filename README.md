@@ -81,7 +81,7 @@ Automation-Hub/
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Shigosag/automation-hub.git
+git clone https://github.com/Shigosag/Automation-Hub.git
 cd automation-hub
 ```
 
