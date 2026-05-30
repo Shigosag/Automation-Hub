@@ -1,0 +1,16 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model AutomationLog {
+  id        Int      @id @default(autoincrement())
+  taskName  String
+  status    String
+  message   String
+  createdAt DateTime @default(now())
+}
