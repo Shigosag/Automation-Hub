@@ -144,4 +144,5 @@ POST /api/automation/run
 ## 📄 License
 
 MIT License
+
 This project is for portfolio/demo purposes.
