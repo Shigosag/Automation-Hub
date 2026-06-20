@@ -78,6 +78,9 @@ Automation-Hub/
 
 ## 🚀 Getting Started
 
+## Prerequisites
+- Node.js (v18+)
+
 ## 1️⃣ Clone the repository
 
 ```bash
