@@ -1,5 +1,8 @@
 # 🚀 Automation Hub
 
+[![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A modern full-stack Automation Demo Project built with React (Vite) frontend and Node.js backend.  
 Designed as a portfolio project showcasing API-driven automation execution with a clean UI and scalable architecture.
 
