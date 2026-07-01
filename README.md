@@ -6,6 +6,8 @@
 A modern full-stack Automation Demo Project built with React (Vite) frontend and Node.js backend.  
 Designed as a portfolio project showcasing API-driven automation execution with a clean UI and scalable architecture.
 
+## 🖼️ Automation Hub Dashboard
+
 ![Automation Hub Dashboard](screenshots/automation.png)
 
 ### 🎥 Automation Hub Demo & Walkthrough
@@ -15,11 +17,12 @@ Designed as a portfolio project showcasing API-driven automation execution with 
 </div>
 
 **Timestamps:**
-- **0:00** - CLI Terminal
-- **0:40** - Database launch & branding banner
-- **0:47** - Command input interface
-- **0:59** - GitHub Repository Overview
-- 
+- **0:00** - Frontend & Backend CLI
+- **0:12** - Automation Hub
+- **0:17** - Run Automation
+- **0:25** - Last Run
+- **0:31** - GitHub Repository Overview
+
 ---
 
 ## ✨ Features
