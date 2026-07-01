@@ -15,7 +15,7 @@ Designed as a portfolio project showcasing API-driven automation execution with 
 </div>
 
 **Timestamps:**
-- **0:00** - Frontend & Backend CLI
+- **0:00** - Frontend & Backend Terminal
 - **0:12** - Automation Hub
 - **0:17** - Run Automation
 - **0:25** - Last Run
